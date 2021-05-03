@@ -1,36 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/pathologicalVC/pathologicalVC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Pathological Voice Adaptation with Autoencoder-based Voice Conversion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check the voice converted samples of our submitted SSW11 paper here:
 
-### Markdown
+### Low intelligibility speakers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Mid intelligibility speakers
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### High intelligibility speakers
+[Link](https://github.com/milla95/milla95.github.io/blob/gh-pages/SAMPLES/high/M08%20GT/M08_B2_CW11_M3.wav)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pathologicalVC/pathologicalVC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/milla95/Pathological-voice-adaptation-with-autoencoder-based-voice-conversion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
